@@ -1,0 +1,27 @@
+C:\Users\ciura\source\repos\Project C# User Form with List\bin\Debug\net6.0-windows\Project C# User Form with List.exe
+C:\Users\ciura\source\repos\Project C# User Form with List\bin\Debug\net6.0-windows\Project C# User Form with List.deps.json
+C:\Users\ciura\source\repos\Project C# User Form with List\bin\Debug\net6.0-windows\Project C# User Form with List.runtimeconfig.json
+C:\Users\ciura\source\repos\Project C# User Form with List\bin\Debug\net6.0-windows\Project C# User Form with List.dll
+C:\Users\ciura\source\repos\Project C# User Form with List\bin\Debug\net6.0-windows\Project C# User Form with List.pdb
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project C# User Form with List.csproj.AssemblyReference.cache
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project_C__User_Form_with_List.Form1.resources
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project C# User Form with List.csproj.GenerateResource.cache
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project C# User Form with List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project C# User Form with List.AssemblyInfoInputs.cache
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project C# User Form with List.AssemblyInfo.cs
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project C# User Form with List.csproj.CoreCompileInputs.cache
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project C# User Form with List.dll
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\refint\Project C# User Form with List.dll
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project C# User Form with List.pdb
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project C# User Form with List.genruntimeconfig.cache
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\ref\Project C# User Form with List.dll
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project_C__User_Form_with_List.Form2.resources
+C:\Users\ciura\source\repos\Project C# User Form with List\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ciura\source\repos\Project C# User Form with List\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\ciura\source\repos\Project C# User Form with List\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ciura\source\repos\Project C# User Form with List\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ciura\source\repos\Project C# User Form with List\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\ciura\source\repos\Project C# User Form with List\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project C# User Form with List.csproj.CopyComplete
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project_C__User_Form_with_List.Form3.resources
+C:\Users\ciura\source\repos\Project C# User Form with List\obj\Debug\net6.0-windows\Project_C__User_Form_with_List.Form4.resources
